@@ -3,19 +3,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-<!-- List on the left side column | Image on the right side column -->
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex-grow: 1;">
-    <h2>Software Engineer Student</h2>
-    <ul>
-      <!-- List -->
-      <li>🌍  I'm based in Bucharest, Romania</li>
-      <li>🧠  I'm learning JavaScript, Local Area Networks, OpenGL, Parallel and Distributed Programming, Regular Expressions, Embedded</li>
-      <li>🤝  I'm open to collaborating on Open Source PRs, DevOps projects</li>
-    </ul>
-  </div>
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Avento GIF" style="width: 300px; height: auto;">
-</div>
+Software Engineer Student
+-------------------------
+
+
+* 🌍  I'm based in Bucharest, Romania
+* 🧠  I'm learning JavaScript, Local Area Networks, OpenGL, Parallel and Distributed Programming, Regular Expressions, Embedded
+* 🤝  I'm open to collaborating on Open Source PRs, DevOps projects
+
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Avento GIF" style="width: 300px; height: auto;">
+
 
 
 
