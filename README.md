@@ -64,5 +64,57 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
 <div width="100%" align="center"><a href="https://github.com/TrifanBogdan24/EmbedYT-Card-Generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TrifanBogdan24&repo=EmbedYT-Card-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/TrifanBogdan24/Network-Protocols-TUI-Quiz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TrifanBogdan24&repo=Network-Protocols-TUI-Quiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
+
 
 <div width="100%" align="center"><a href="https://github.com/TrifanBogdan24/MarkDown-Link-Checker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TrifanBogdan24&repo=MarkDown-Link-Checker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TrifanBogdan24&repo=Linear-Regression-Algorithm-Scala&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div>
+
+<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br />
+
+
+
+
+<details>
+  <summary><h2>👨‍💻 My portofolio (projects)</h2></summary>
+  
+  <details>
+    <summary><h3>Linear Regression - Gradient Descent Algorithm in Scala</h3></summary>
+
+
+> Check the source code here: <https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git>
+
+Linear regression is a **Machine Learning** technique that finds the best-fit line through a set of data points,
+minimizing the distance between the points and the line to predict future values.
+
+
+This project demonstrates a `Linear Regression model` implemented in Scala,
+featuring `Gradient Descent` as the optimization technique.
+
+- **Data Loading and Preprocessing**:
+Reads data from a CSV file with attributes as columns and rows as individual entries.
+It selects only relevant columns to train the model.
+  
+- **Dataset Splitting**:
+Splits the data into **training** and **validation** sets.
+Typically, 80% of data is used for training, and 20% for evaluating model performance.
+
+- **Matrix Operations and Error Propagation**:
+Converts the dataset to a numerical matrix for operations like addition, subtraction, and multiplication.
+Uses Scala's `Option` type for handling potential errors in calculations.
+
+- **Gradient Descent Algorithm**:
+  - Initializes a matrix for training data (`X`) and a vector of parameters (`W`).
+  - Iteratively adjusts parameters based on calculated error gradients to minimize prediction error.
+  - Returns optimized parameters and the final prediction error on validation data.
+
+- **Functional Programming Principles**:
+Implements functional paradigms by using immutable variables, and error handling with `Option`.
+
+- **Visualization**:
+Includes a `gnuplot` script to visualize regression results, comparing actual vs. predicted values in 3D space.
+
+The primary method, `regression`, accepts parameters such as dataset path, selected features, learning rate, and number of iterations. It outputs a tuple containing the final parameters and error metrics.
+
+  </details>
+</details>
