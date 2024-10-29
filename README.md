@@ -197,5 +197,41 @@ and uses `JWT` (JSON Web Token) for keeping the user authenticated on the server
   </details>
 
 
+
+  <details>
+    <summary><h3>Network Protocols TUI Quiz</h3></summary>
+
+> Check out the source code: <https://github.com/TrifanBogdan24/Network-Protocols-TUI-Quiz.git>
+
+
+👨‍💻 A `CLI TUI` tool written in `JavaScript` with `NodeJS`,
+leveraging the power of [`@clack/prompts`](https://github.com/bombshell-dev/clack.git) to deliver an interactive quiz experience right in your terminal.
+
+
+> - **CLI** = Command Line Interface
+> - **TUI** = Terminal User Interface
+
+Preview/Results:
+![gif](https://github.com/TrifanBogdan24/Network-Protocols-TUI-Quiz/raw/main/Images/PreviewVideos/preview.gif)
+
+
+I choose `Clack` because it's a lightweight library,
+with an easy to read **API** that has a lot of built in features,
+great to use in `JavaScript` **TUI** app.
+
+```js
+import { intro, isCancel, cancel, note, outro, select, spinner, text } from '@clack/prompts';
+```
+
+
+The app also uses 🐳 `Docker` in order to manage all `npm` dependencies for you
+and to run the `NodeJS` project in a `Docker container` as smoothly as possibly
+(without requiring you to install anything at all).
+
+
+
+  </details>
+
+
 </details>
 
