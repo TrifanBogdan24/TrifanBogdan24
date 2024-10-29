@@ -123,4 +123,59 @@ Moreover, in order to automate the process of testing the `Scala` source code wi
 I implemented a `CI` pipeline on [`GitHub Actions`](https://github.com/features/actions) specifically for this purpose.
 
   </details>
+
+  <details>
+    <summary><h3>Embed YouTube Card Generator (Method 1)</h3></summary>
+
+> Check the source code: <https://github.com/TrifanBogdan24/EmbedYT-Card-Generator-M1.git>.
+
+A **CLI** tool written in Python with `pytube`/`pytubefix` module.
+The script takes as argument in the command line an **URL**
+and returns the HTML code of a clickable YouTube card.
+
+Both in browser and in MarkDown preview, the result of rendering the generated HTML code will look like this:
+
+![img](https://github.com/TrifanBogdan24/EmbedYT-Card-Generator-M1/blob/main/Images/img-01.png)
+
+This tool is at the most powerful when used with other **CLI** functions,
+like redirection or copying directly to clipboard.
+
+You can find detailed information about these features in the documentation.
+
+
+  </details>
+
+  <details>
+    <summary><h3>Embed YouTube Card Generator (Method 2)</h3></summary>
+
+
+> Check the source code: <https://github.com/TrifanBogdan24/EmbedYT-Card-Generator-M2.git>.
+
+
+A **CLI** tool written in Python with `pytube`/`pytubefix` module.
+The script takes as argument in the command line an **URL**
+and returns the HTML code of a clickable YouTube card.
+
+> Despite the similiraties with the above project,
+> this Python script comes with a **game changing feature**:
+> **rendering** the generated HTML code works on `GitHub`.
+
+The template for the YouTube card is built on the [ytcards.demolab.com](https://ytcards.demolab.com/) **API**,
+by simply passing parameters (**video ID**, **title**, **duration**)to the URL <https://ytcards.demolab.com/>.
+
+Either on a web browser or on a MarkDown previewer, the result of rendering the generated HTML code will look like this:
+
+![img](https://github.com/TrifanBogdan24/EmbedYT-Card-Generator-M2/blob/main/Images/img-01.png)
+
+
+This tool is at the most powerful when used with other **CLI** functions,
+like redirection or copying directly to clipboard.
+
+You can find detailed information about these features in the documentation.
+
+  </details>
+
+
+
 </details>
+
