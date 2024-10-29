@@ -74,7 +74,7 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
 
 
 
-<details>
+<details open>
   <summary><h2>👨‍💻 My portofolio (projects)</h2></summary>
   
   <details>
