@@ -64,7 +64,6 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
 <div width="100%" align="center"><a href="https://github.com/TrifanBogdan24/EmbedYT-Card-Generator" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TrifanBogdan24&repo=EmbedYT-Card-Generator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/TrifanBogdan24/Network-Protocols-TUI-Quiz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TrifanBogdan24&repo=Network-Protocols-TUI-Quiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br />
 
 
 <div width="100%" align="center"><a href="https://github.com/TrifanBogdan24/MarkDown-Link-Checker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TrifanBogdan24&repo=MarkDown-Link-Checker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TrifanBogdan24&repo=Linear-Regression-Algorithm-Scala&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div>
@@ -88,11 +87,11 @@ Linear regression is a **Machine Learning** technique that finds the best-fit li
 minimizing the distance between the points and the line to predict future values.
 
 
-This project demonstrates a `Linear Regression model` implemented in Scala,
+This project demonstrates a `Linear Regression model` implemented in **Scala**,
 featuring `Gradient Descent` as the optimization technique.
 
 - **Data Loading and Preprocessing**:
-Reads data from a CSV file with attributes as columns and rows as individual entries.
+Reads data from a `CSV` file with attributes as columns and rows as individual entries.
 It selects only relevant columns to train the model.
   
 - **Dataset Splitting**:
@@ -100,13 +99,16 @@ Splits the data into **training** and **validation** sets.
 Typically, 80% of data is used for training, and 20% for evaluating model performance.
 
 - **Matrix Operations and Error Propagation**:
-Converts the dataset to a numerical matrix for operations like addition, subtraction, and multiplication.
-Uses Scala's `Option` type for handling potential errors in calculations.
+The algorithm is based on basic **Linear Algebra** and **Numerical Methods**.
+It converts the dataset to a numerical matrix for operations like addition, subtraction, and multiplication.
+Uses **Scala**'s `Option` type for handling potential errors in calculations.
 
 - **Gradient Descent Algorithm**:
-  - Initializes a matrix for training data (`X`) and a vector of parameters (`W`).
-  - Iteratively adjusts parameters based on calculated error gradients to minimize prediction error.
-  - Returns optimized parameters and the final prediction error on validation data.
+  - Initializes a matrix for training data (`X` = the **input vector**, based on the `CSV` file)
+  - Initializes a vector of parameters (`W` = **weights**).
+  - Iteratively computes the **prediction** `Y` as `Y = X * W` over and over again,
+  untill the error (the difference between the **prediction** and the actual **output vector**, based on the `CSV` file)
+  has an acceptable value.
 
 - **Functional Programming Principles**:
 Implements functional paradigms by using immutable variables, and error handling with `Option`.
