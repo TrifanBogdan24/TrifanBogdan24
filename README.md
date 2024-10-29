@@ -81,7 +81,7 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
     <summary><h3>Linear Regression - Gradient Descent Algorithm in Scala</h3></summary>
 
 
-> Check the source code here: <https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git>
+> Check out the source code here: <https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git>
 
 Linear regression is a **Machine Learning** technique that finds the best-fit line through a set of data points,
 minimizing the distance between the points and the line to predict future values.
@@ -125,9 +125,11 @@ I implemented a `CI` pipeline on [`GitHub Actions`](https://github.com/features/
   </details>
 
   <details>
-    <summary><h3>Embed YouTube Card Generator (Method 1)</h3></summary>
+    <summary><h3>🤖 Embed YouTube Card Generator (Method 1)</h3></summary>
 
-> Check the source code: <https://github.com/TrifanBogdan24/EmbedYT-Card-Generator-M1.git>.
+> Check out the source code: <https://github.com/TrifanBogdan24/EmbedYT-Card-Generator-M1.git>.
+
+🤖 Automate the boring stuff with Python!
 
 A **CLI** tool written in Python with `pytube`/`pytubefix` module.
 The script takes as argument in the command line an **URL**
@@ -146,11 +148,12 @@ You can find detailed information about these features in the documentation.
   </details>
 
   <details>
-    <summary><h3>Embed YouTube Card Generator (Method 2)</h3></summary>
+    <summary><h3>🤖 Embed YouTube Card Generator (Method 2)</h3></summary>
 
 
-> Check the source code: <https://github.com/TrifanBogdan24/EmbedYT-Card-Generator-M2.git>.
+> Check out the source code: <https://github.com/TrifanBogdan24/EmbedYT-Card-Generator-M2.git>.
 
+🤖 Automate the boring stuff with Python!
 
 A **CLI** tool written in Python with `pytube`/`pytubefix` module.
 The script takes as argument in the command line an **URL**
@@ -175,6 +178,23 @@ You can find detailed information about these features in the documentation.
 
   </details>
 
+
+  <details>
+    <summary><h3>🌐 HTTP client to `34.246.184.49`</h3></summary>
+
+
+> Check out the source code: <https://github.com/TrifanBogdan24/HTTP-client-to-34.246.184.49.git>
+
+A **CLI tool** for a HTTP client written in C.
+
+The user interacts with the server's **RESTful** book **API** via the command line.
+
+The web client primarly uses the HTTP methods `GET`, `POST`, `DELETE`
+and uses `JWT` (JSON Web Token) for keeping the user authenticated on the server.
+
+
+
+  </details>
 
 
 </details>
