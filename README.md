@@ -118,5 +118,9 @@ Includes a `gnuplot` script to visualize regression results, comparing actual vs
 
 The primary method, `regression`, accepts parameters such as dataset path, selected features, learning rate, and number of iterations. It outputs a tuple containing the final parameters and error metrics.
 
+
+Moreover, in order to automate the process of testing the `Scala` source code with `sbt`,
+I implemented a `CI` pipeline on [`GitHub Actions`](https://github.com/features/actions) specifically for this purpose.
+
   </details>
 </details>
