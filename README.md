@@ -224,7 +224,8 @@ import { intro, isCancel, cancel, note, outro, select, spinner, text } from '@cl
 ```
 
 
-The app also uses 🐳 `Docker` in order to manage all `npm` dependencies for you
+The app also uses [🐳 `Docker`](https://www.docker.com/)
+in order to manage all `npm` dependencies for you
 and to run the `NodeJS` project in a `Docker container` as smoothly as possibly
 (without requiring you to install anything at all).
 
