@@ -209,7 +209,8 @@ You can find detailed information about these features in the documentation.
 
 A **CLI tool** for a HTTP client written in C.
 
-The user interacts with the server's **RESTful** book **API** via the command line.
+The user interacts via the command line with the server's **RESTful** book **API**,
+located at `34.246.184.49`.
 
 The web client primarly uses the HTTP methods `GET`, `POST`, `DELETE`
 and uses `JWT` (JSON Web Token) for keeping the user authenticated on the server.
