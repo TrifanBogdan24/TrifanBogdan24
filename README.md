@@ -124,6 +124,31 @@ I implemented a `CI` pipeline on [`GitHub Actions`](https://github.com/features/
 
   </details>
 
+
+  <details>
+    <summary><h3>🗄️ My Scala DataBase</h3></summary>
+
+> Checkout the source code here: <https://github.com/TrifanBogdan24/My-Scala-DataBase.git>
+
+Implemented a **Query Language** inspired from `SQL`,
+which uses a DataBase implemented by me, written in Scala.
+
+My DataBase reads a `CSV` file and stores its information in a **table-like** data structure.
+
+The **query language** serves as an **API** to the **DataBase**
+for a wide range of table transformations, implemented as functions.
+
+In the implementation of the **query language**,
+I focussed on including functionalities similar to those in `SQL`,
+as well as on **error handling** using Scala's `Option` **ADT**. 
+
+Moreover, in order to automate the process of testing the `Scala` source code with `sbt`,
+I implemented a `CI` pipeline on [`GitHub Actions`](https://github.com/features/actions) specifically for this purpose.
+
+  </details>
+
+
+
   <details>
     <summary><h3>🤖 Embed YouTube Card Generator (Method 1)</h3></summary>
 
@@ -148,26 +173,6 @@ You can find detailed information about these features in the documentation.
   </details>
 
 
-
-  <details>
-    <summary><h3>🗄️ My Scala DataBase</h3></summary>
-
-> Checkout the source code here: <https://github.com/TrifanBogdan24/My-Scala-DataBase.git>
-
-Implemented a **Query Language** inspired from `SQL`,
-which uses a DataBase implemented by me, written in Scala.
-
-My DataBase reads a `CSV` file and stores its information in a **table-like** data structure.
-
-The **query language** serves as an **API** to the **DataBase**
-for a wide range of table transformations, implemented as functions.
-
-In the implementation of the **query language**,
-I focussed on including functionalities similar to those in `SQL`,
-as well as on **error handling** using Scala's `Option` **ADT**. 
-
-
-  </details>
 
   <details>
     <summary><h3>🤖 Embed YouTube Card Generator (Method 2)</h3></summary>
