@@ -55,12 +55,10 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
   <img alt="Rust" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/512px-Rustacean-orig-noshadow.svg.png" width="36" height="36">
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36">
-</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img alt="VS Code" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36">
 </a>
+<!--
 <a href="https://neovim.io/" target="_blank" rel="noreferrer">
   <img alt="Neovim" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36">
 </a>
@@ -73,9 +71,13 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
   <img alt="CSS3" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36">
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36">
+</a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img alt="NodeJS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36">
 </a>
+ -->
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
   <img alt="Oracle" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36">
 </a>
@@ -154,3 +156,16 @@ Issues I solved in my **PR**:
 <div align="center"><a href="https://github.com/TrifanBogdan24">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TrifanBogdan24&theme=default" alt="GitHub Profile Summary Card"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TrifanBogdan24&theme=default" alt="GitHub Profile Summary Card"></a>
 </div>
+
+
+<!-- 
+
+
+## My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+ -->
