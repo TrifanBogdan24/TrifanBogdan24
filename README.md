@@ -149,13 +149,28 @@ Issues I solved in my **PR**:
 </picture>
 
 
-- [Parallel Map-Reduce](https://github.com/TrifanBogdan24/Parallel-File-Map-Reduce.git)
-- [LAN Configuration in Linux (Networking)](https://github.com/TrifanBogdan24/LAN-Config-in-Linux.git)
-- [Router Dataplane](https://github.com/TrifanBogdan24/Network-Router-Implementation.git)
-- [Switch Dataplane](https://github.com/TrifanBogdan24/Network-Switch-Implementation.git)
-- [HTTP Web Client to a Book API](https://github.com/TrifanBogdan24/HTTP-client-to-a-BookAPI.git)
-- [Linear Regression - Gradient Descent in Scala](https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git)
+- [Parallel Map-Reduce](https://github.com/TrifanBogdan24/Parallel-File-Map-Reduce.git):
+  **Implemented the parallel computation of an inverted index,**
+  **similar to the one used by Google for processing large sets of documents**
+- [LAN Configuration in Linux (Networking)](https://github.com/TrifanBogdan24/LAN-Config-in-Linux.git):
+  - **Persisent to reboot config, using network-specific files**
+  - **Set up Internet connectivity, iptables firewall rules, bash/python scripts for automating tasks**
+  - **Deployed a WireGuard VPN tunnel**
+  - > **Simulated a network of computers using virtualization techniques: Docker containers on an OpenStack remote VM**
+- [Network Router](https://github.com/TrifanBogdan24/Network-Router-Implementation.git):
+  **The software behind a router that includes ICMP protocol and IPv4 packet forwarding using LPM (Longest Prefix Match) on routing table**
+- [Network Switch](https://github.com/TrifanBogdan24/Network-Switch-Implementation.git):
+  **The software behind a switch that includes STP (Spanning Tree Protocol), VLAN tagging (802.1q) and CAM table**
+- [HTTP Client to a Book API](https://github.com/TrifanBogdan24/HTTP-client-to-a-BookAPI.git):
+  **Developed a CLI tool for interacting with a RESTful API**
+  **using core HTTP, JSON parsing (for transferring data) and a JWT authentication token for mentaining the HTTP session**
+- [Linear Regression with Gradient Descent in Scala](https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git)
+  **Using Linear Algebra operations on matrices, I computed the Gradient Descent algorithm to repeatedly compute the best coefficients for the regression line**
 
+### Workshops
+
+- [Rust Workshop (mar 2025)](https://github.com/TrifanBogdan24/Rust-Workshop-mar-2025):
+  **strengthened my skills in Rust and MCU development, by programming on a Raspberry Pi Pico**
 
 
 <h3 align="center">Profile Stats with Charts</h3>
