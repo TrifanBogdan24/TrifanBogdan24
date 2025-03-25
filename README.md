@@ -23,6 +23,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.github.com/TrifanBogdan24" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
 ## Skills
 
 
@@ -102,6 +103,9 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
 </p>
 
 
+
+
+
 ## Pull Request Contributions
 
 ### [Linear Regression - plugin for nushell](https://github.com/nushell/nushell/pull/11542)
@@ -136,6 +140,15 @@ Issues I solved in my **PR**:
 ## My Projects
 
 
+
+<!-- Snake Game in the contributions graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 - [Parallel Map-Reduce](https://github.com/TrifanBogdan24/Parallel-File-Map-Reduce.git)
 - [LAN Configuration in Linux (Networking)](https://github.com/TrifanBogdan24/LAN-Config-in-Linux.git)
 - [Router Dataplane](https://github.com/TrifanBogdan24/Network-Router-Implementation.git)
@@ -158,14 +171,7 @@ Issues I solved in my **PR**:
 </div>
 
 
-<!-- 
 
 
-## My Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
- -->
+
