@@ -37,15 +37,14 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img alt="Git" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36">
 </a>
-
 <a href="https://www.linux.org" target="_blank" rel="noreferrer">
   <img alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36">
 </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img alt="GNU Bash" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img alt="Docker" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" >
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img alt="Python" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36">
@@ -59,6 +58,12 @@ src="https://img.shields.io/github/followers/TrifanBogdan24?logo=github&style=fo
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img alt="VS Code" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36">
 </a>
+
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+
 <!--
 <a href="https://neovim.io/" target="_blank" rel="noreferrer">
   <img alt="Neovim" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36">
@@ -164,6 +169,12 @@ Issues I solved in my **PR**:
 - 🌐 [HTTP Client to a Book API](https://github.com/TrifanBogdan24/HTTP-client-to-a-BookAPI.git):
   **Developed a CLI tool for interacting with a RESTful API**
   **using core HTTP, JSON parsing (for transferring data) and a JWT authentication token for mentaining the HTTP session**
+- 🌐 [Sportiv Stats - HTTP web server]():
+  - 🎯 **Built a RESTful API with Python's `flask`**
+  - 🧵 **Implemented the `Thread Pool` design pattern for concurrently handling HTTP requests, in parallel**
+  - 🪵 **Integrated a module for `logging` server's activity**
+  - 📋 **Computed statistical operations on a `CSV` file**
+  - 📬 **Used `Postman` for testing my API**
 - 📐 [Linear Regression with Gradient Descent in Scala](https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git)
   **Using Linear Algebra operations on matrices, I computed the Gradient Descent algorithm to repeatedly compute the best coefficients for the regression line**
 
