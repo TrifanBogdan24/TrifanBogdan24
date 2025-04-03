@@ -173,7 +173,7 @@ Issues I solved in my **PR**:
   - 🎯 **Built a RESTful API with Python's `flask`**
   - 🧵 **Implemented the `Thread Pool` design pattern for concurrently handling HTTP requests, in parallel**
   - 🪵 **Integrated a module for `logging` server's activity**
-  - 📋 **Computed statistical operations on a `CSV` file**
+  - 📋 **Computed statistical operations on a `CSV` file and integrated a `unit testing` ✅ suite for them**
   - 📬 **Used `Postman` for testing my API**
 - 📐 [Linear Regression with Gradient Descent in Scala](https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git)
   **Using Linear Algebra operations on matrices, I computed the Gradient Descent algorithm to repeatedly compute the best coefficients for the regression line**
@@ -181,7 +181,10 @@ Issues I solved in my **PR**:
 ### Workshops
 
 - 🦀 [Rust Workshop (mar 2025)](https://github.com/TrifanBogdan24/Rust-Workshop-mar-2025):
-  **strengthened my skills in Rust and MCU development, by programming on a Raspberry Pi Pico**
+  - ⚡️ `Embassy`: **strengthened my skills in Rust and MCU development, by programming on a Raspberry Pi Pico**
+  - 🌐 `Axum Web Server`:
+    **I've learnt how to built a `scalabale` 📏 API (in Rust)**
+    **by structuring each HTTP endpoint into its own `module`**
 
 
 <h3 align="center">Profile Stats with Charts</h3>
