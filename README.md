@@ -154,9 +154,10 @@ Issues I solved in my **PR**:
 </picture>
 
 
-- 🗃️ [Parallel Map-Reduce](https://github.com/TrifanBogdan24/Parallel-File-Map-Reduce.git):
-  **Implemented the parallel computation of an inverted index,**
-  **similar to the one used by Google for processing large sets of documents**
+
+
+### Networking
+
 - 🌐 [LAN Configuration in Linux (Networking)](https://github.com/TrifanBogdan24/LAN-Config-in-Linux.git):
   - **Persisent to reboot config, using network-specific files**
   - **Set up Internet connectivity, iptables firewall rules, bash/python scripts for automating tasks**
@@ -169,14 +170,37 @@ Issues I solved in my **PR**:
 - 🌐 [HTTP Client to a Book API](https://github.com/TrifanBogdan24/HTTP-client-to-a-BookAPI.git):
   **Developed a CLI tool for interacting with a RESTful API**
   **using core HTTP, JSON parsing (for transferring data) and a JWT authentication token for mentaining the HTTP session**
-- 🌐 [Sportiv Stats - HTTP web server]():
+
+### Algorithms & Apps
+
+- 🗃️ [Parallel Map-Reduce](https://github.com/TrifanBogdan24/Parallel-File-Map-Reduce.git):
+  **Implemented the parallel computation of an inverted index,**
+  **similar to the one used by Google for processing large sets of documents**
+
+- 🌐 [Sportiv Stats - HTTP web server](https://github.com/TrifanBogdan24/Sportive-Stats-HTTP-server):
   - 🎯 **Built a RESTful API with Python's `flask`**
   - 🧵 **Implemented the `Thread Pool` design pattern for concurrently handling HTTP requests, in parallel**
   - 🪵 **Integrated a module for `logging` server's activity**
   - 📋 **Computed statistical operations on a `CSV` file and integrated a `unit testing` ✅ suite for them**
   - 📬 **Used `Postman` for testing my API**
+
 - 📐 [Linear Regression with Gradient Descent in Scala](https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git)
   **Using Linear Algebra operations on matrices, I computed the Gradient Descent algorithm to repeatedly compute the best coefficients for the regression line**
+
+- 🏎️ [To pit or not to pit...](https://github.com/TrifanBogdan24/To-pit-or-not-to-pit):
+  A **memory managment** project, written in C,
+  developed in the fictional context of managing **Formula 1** car sensors
+
+
+### Video Games
+
+- 🪖 [Tank Wars Game](https://github.com/TrifanBogdan24/TankWarsGame):
+  1v1 tank battle 2D game, built in **OpenGL**, featuring: dynamic terrain, multiple maps and customizable tanks
+- 🛩️ [Drone Race Game](https://github.com/TrifanBogdan24/DroneRaceGame):
+  A competitive two-player game set on a challenging obstacle-filled **3D map**. 
+  The first player to pass through all the gates wins the race.
+
+
 
 ### Workshops
 
