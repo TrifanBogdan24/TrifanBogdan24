@@ -188,8 +188,8 @@ Issues I solved in my **PR**:
   **Using Linear Algebra operations on matrices, I computed the Gradient Descent algorithm to repeatedly compute the best coefficients for the regression line**
 
 - 🏎️ [To pit or not to pit...](https://github.com/TrifanBogdan24/To-pit-or-not-to-pit):
-  A **memory managment** project, written in C,
-  developed in the fictional context of managing **Formula 1** car sensors
+  A **data management** project, written in C,
+  developed in the fictional context of analyzing **Formula 1** car sensors values
 
 
 ### Video Games
