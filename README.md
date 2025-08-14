@@ -191,6 +191,11 @@ Issues I solved in my **PR**:
   A **data management** project, written in C,
   developed in the fictional context of analyzing **Formula 1** car sensors values
 
+- 🎞️ [Magic Tape](https://github.com/TrifanBogdan24/Magic-Tape):
+  **Turing Machine** implemented in a **low-level** programming language
+  using data structures based on **linked lists**
+
+
 
 ### Video Games
 
