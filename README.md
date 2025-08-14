@@ -206,6 +206,12 @@ Issues I solved in my **PR**:
   The first player to pass through all the gates wins the race.
 
 
+### Hardware
+
+- 🔌 [RJ45-tester](https://github.com/TrifanBogdan24/RJ45-tester):
+  Built a network cables connectivity tester using Arduino and RJ45 sockets,
+  featuring a **main SPI screen** for wiring schemes
+  and a **I2C LCD** for pin indices.
 
 ### Workshops
 
