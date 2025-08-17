@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 * 🌍  I'm based in Bucharest, Romania
-* 🧠  I'm learning about Networking, LAN Mangament, Linux, OpenGL, Parallel and Distributed Programming, Regular Expressions, as well as web and embedded programming
+* 🧠  I'm learning about Networking, LAN Mangament, Linux, OpenGL, Parallel and Distributed Programming, Data Structures & Algorithms, Communication Protocols, as well as web and embedded programming
 * 🤝  I'm open to collaborating on Open Source PRs, DevOps projects
 
 
@@ -195,6 +195,7 @@ Issues I solved in my **PR**:
   **Turing Machine** implemented in a **low-level** programming language
   using data structures based on **linked lists**
 
+- 📷 [Quad Tree](https://github.com/TrifanBogdan24/Quad-Tree): PPM Image compression and decompression algorithm
 
 
 ### Video Games
