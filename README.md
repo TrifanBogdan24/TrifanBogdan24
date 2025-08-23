@@ -224,10 +224,10 @@ Issues I solved in my **PR**:
 ### Workshops
 
 - 🦀 [Rust Workshop (mar 2025)](https://github.com/TrifanBogdan24/Rust-Workshop-mar-2025):
-  - ⚡️ `Embassy`: **strengthened my skills in Rust and MCU development, by programming on a Raspberry Pi Pico**
+  - ⚡️ `Embassy`: strengthened my skills in Rust and MCU development, by programming on a Raspberry Pi Pico
   - 🌐 `Axum Web Server`:
-    **I've learnt how to built a `scalabale` 📏 API (in Rust)**
-    **by structuring each HTTP endpoint into its own `module`**
+    I've learnt how to built a `scalabale` 📏 API (in Rust)
+    by structuring each HTTP endpoint into its own `module`
 
 
 <h3 align="center">Profile Stats with Charts</h3>
