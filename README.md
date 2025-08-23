@@ -207,6 +207,13 @@ Issues I solved in my **PR**:
   The first player to pass through all the gates wins the race.
 
 
+### Operating Systems
+
+- [Mini Libc](https://github.com/TrifanBogdan24/Mini-Libc):
+  Built my own implementation of `glibc` on top of `Linux system calls`,
+  featuring **string management**, basic **memory support** and **file I/O**.
+
+
 ### Hardware
 
 - 🔌 [RJ45-tester](https://github.com/TrifanBogdan24/RJ45-tester):
