@@ -213,6 +213,9 @@ Issues I solved in my **PR**:
   Built my own implementation of `glibc` on top of `Linux system calls`,
   featuring **string management**, basic **memory support** and **file I/O**.
 
+- [Parallel Graph Traversal](https://github.com/TrifanBogdan24/Parallel-Graph-Traversal):
+  A 🧵 `Thread Pool` implemented in C, inspired by the **Linux kernel**’s 🔗 `linked list` style
+
 
 ### Hardware
 
