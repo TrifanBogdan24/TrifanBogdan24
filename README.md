@@ -184,6 +184,9 @@ Issues I solved in my **PR**:
   - 📋 Computed statistical operations on a `CSV` file and integrated a `unit testing` ✅ suite for them
   - 📬 Used `Postman` for testing my API
 
+- ⛃ [AC-SQL](https://github.com/TrifanBogdan24/AC-SQL):
+  Mninimal SQL database engine as a CLI app, featuring **CBC** memory **encryption** 🔐
+
 - 📐 [Linear Regression with Gradient Descent in Scala](https://github.com/TrifanBogdan24/Linear-Regression-Algorithm-Scala.git)
   Using Linear Algebra operations on matrices, I computed the Gradient Descent algorithm to repeatedly compute the best coefficients for the regression line
 
